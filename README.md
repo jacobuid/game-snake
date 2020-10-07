@@ -1,2 +1,7 @@
-# game-snake
-Fun project using canvas, the original snake game
+React Snake project, enjoy
+
+Open in IDE:
+
+run: `npm i`
+
+run `npm start`

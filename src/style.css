@@ -1,0 +1,24 @@
+html,
+body {
+    background-color: #333;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.snake-canvas {
+    background-color: #222;
+    outline: none;
+    margin: 20px auto;
+    display: block;
+}
+
+.snake-menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    padding: 20px;
+}
